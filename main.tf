@@ -7,3 +7,6 @@ output "var_value" {
   value = var.from_set
   
 }
+
+
+null_resource "example" {}
