@@ -9,4 +9,4 @@ output "var_value" {
 }
 
 
-null_resource "example" {}
+resource null_resource "example" {}
